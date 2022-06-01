@@ -40,7 +40,7 @@
     background-color: antiquewhite;
     background-position: center;
     background-size: cover;
-    height: 80vh;
+    height: 70vh;
     padding-top: 20px;
 }
 .sub .pic1{
@@ -222,7 +222,7 @@
     color: #fff;
     width: 200px;
     height: 130px;
-    margin-left: 1258px;
+    margin-left: 1277px;
     margin-bottom: 300px;
     margin-top: -5.5cm;
    }
@@ -311,16 +311,16 @@ margin-top: -6cm;
 .btn2{
     height: 50px;
     width: 350px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .btn3{
     height: 150px;
     width: 350px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .btn4{
     height: 50px;
     width: 350px;
     background-color: green;
-    margin-top: 50px;
+    margin-top: 30px;
 }
