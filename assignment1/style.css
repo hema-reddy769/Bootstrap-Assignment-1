@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: green;
+}
+.main{
+    background: url(images/header-background\ \(2\).jpg);
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+}
+.content .par{
+    position: center;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    color:#fff;
+    font-size: 20px;
+}
+.content h3{
+    font-size: 38px;
+    color: green;
+    padding-left: 600px;
+    padding-top: 200px;
+}
+.content .bn{
+    width: 200px;
+    height: 50px;
+    background: green;
+    margin-left: 20cm;
+    color: #fff;
+    border: none;
+    font-size: 30px;
+}
+.sub{
+    width: 100%;
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    padding-top: 20px;
+}
+.sub .pic1{
+    background: url(images/column-1.jpg);
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    width: 500px;
+    margin-left: 130px;
+    margin-top: 100px;
+    border: 2px solid;
+}
+
+.sub .pic2{
+    background: url(images/coloum-2.jpg);
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    width: 500px;
+    margin-left: 680px;
+    border: 2px solid;
+    margin-top: -300px;
+    padding-bottom: 30px;
+}
+.content{
+    border: 2px solid;
+    height: 80vh;
+    
+}
+
+
+
+
+
+
+
+
+
+   
