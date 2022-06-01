@@ -76,7 +76,7 @@
     padding-left: 400px;
 }
 .sub .text{
-    border: 2px solid;
+    
     height: 200px;
     width: 500px;
     margin-left: 130px;
@@ -84,11 +84,84 @@
     
 }
 .sub .text2{
-    border: 2px solid;
+    
     height: 200px;
     width: 450px;
     margin-left: 700px;
     margin-top: -200px;
+}
+.sub1{
+    width: 100%;
+    background-color: bisque;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    padding-top: 20px;
+}
+.sub1 .image1{
+    background: url(images/image1.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    width: 200px;
+    border-radius: 50%;
+    padding-left: 5cm;
+}
+.sub1 .image2{
+    background: url(images/image2.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    width: 200px;
+    border-radius: 50%;
+}
+.sub1 .image3{
+    background: url(images/image3.png);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    width: 200px;
+    border-radius: 50%;
+}
+.sub1 .image4{
+    background: url(images/image4.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    width: 200px;
+    border-radius: 50%;
+}
+.sub1 .image5{
+    background: url(images/image5.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    width: 200px;
+    border-radius: 50%;
+}
+.sub1 .image6{
+    background: url(images/image6.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    width: 200px;
+    border-radius: 50%;
+}
+.sub1 .image7{
+    background: url(images/image7.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    width: 200px;
+    border-radius: 50%;
+}
+.sub1 .image8{
+    background: url(images/image8.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    width: 200px;
+    border-radius: 50%;
 }
 
 
