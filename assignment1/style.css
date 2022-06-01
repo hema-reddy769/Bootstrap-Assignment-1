@@ -95,74 +95,137 @@
     background-color: bisque;
     background-position: center;
     background-size: cover;
-    height: 70vh;
+    height: 80vh;
     padding-top: 20px;
 }
-.sub1 .image1{
+.image1{
     background: url(images/image1.jpg);
     background-size: cover;
     height: 200px;
     background-position: center;
     width: 200px;
     border-radius: 50%;
+    margin-left: 7cm;
+    margin-top: 1cm;
     
 }
-.sub1 .image2{
+.image2{
     background: url(images/image2.jpg);
     background-size: cover;
     height: 200px;
     background-position: center;
     width: 200px;
     border-radius: 50%;
+    margin-left: 7cm;
+    margin-top: 3cm;
 }
-.sub1 .image3{
+.image3{
     background: url(images/image3.png);
     background-size: cover;
     height: 200px;
     background-position: center;
     width: 200px;
     border-radius: 50%;
+    margin-left: 16cm;
+    margin-top: -13.5cm;
+    
 }
-.sub1 .image4{
+.image4{
     background: url(images/image4.jpg);
     background-size: cover;
     height: 200px;
     background-position: center;
     width: 200px;
     border-radius: 50%;
+    margin-left: 16cm;
+    margin-top: 110px;
+    
+    
 }
-.sub1 .image5{
+.image5{
     background: url(images/image5.jpg);
     background-size: cover;
     height: 200px;
     background-position: center;
     width: 200px;
     border-radius: 50%;
+    margin-left: 25cm;
+    margin-top: -13.3cm;
+   
+    
 }
-.sub1 .image6{
+.image6{
     background: url(images/image6.jpg);
     background-size: cover;
     height: 200px;
     background-position: center;
     width: 200px;
     border-radius: 50%;
+    margin-left: 25cm;
+    margin-top: 2.9cm;
+   
+    
 }
-.sub1 .image7{
+.image7{
     background: url(images/image7.jpg);
     background-size: cover;
     height: 200px;
     background-position: center;
     width: 200px;
     border-radius: 50%;
+    margin-left: 35cm;
+    margin-top: -13.7cm;
+    
 }
-.sub1 .image8{
+.image8{
     background: url(images/image8.jpg);
     background-size: cover;
     height: 200px;
     background-position: center;
     width: 200px;
     border-radius: 50%;
+     margin-left: 35cm;
+     margin-top: 3cm;
+    
+    
 }
+.sub2{
+    width: 100%;
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    height: 40vh;
+    
+}
+.sub2 h4{
+    padding-left: 200px;
+    color: #fff;
+    padding-top: 2cm;
+
+}
+.sub2 span{
+    padding-left: 20cm;
+    color: #fff;
+    padding-top: 2cm;
+}
+.para{
+    
+    height: 200px;
+    width: 900px;
+    margin-left: 198px;
+    margin-top: 50px;
+    color: #fff;
+}
+.contact h6{
+    
+    color: #fff;
+    width: 200px;
+    height: 130px;
+    margin-left: 1258px;
+    margin-bottom: 300px;
+    margin-top: -5.5cm;
+   }
+
 
 
 
