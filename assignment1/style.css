@@ -62,7 +62,7 @@
     margin-left: 680px;
     border: 2px solid;
     margin-top: -300px;
-    padding-bottom: 30px;
+    
 }
 .content{
     border: 2px solid;
@@ -75,7 +75,21 @@
 .sub span{
     padding-left: 400px;
 }
-
+.sub .text{
+    border: 2px solid;
+    height: 200px;
+    width: 500px;
+    margin-left: 130px;
+    margin-top: 50px;
+    
+}
+.sub .text2{
+    border: 2px solid;
+    height: 200px;
+    width: 450px;
+    margin-left: 700px;
+    margin-top: -200px;
+}
 
 
 
