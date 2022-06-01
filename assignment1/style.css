@@ -33,13 +33,14 @@
     color: #fff;
     border: none;
     font-size: 30px;
+    padding: 20px;
 }
 .sub{
     width: 100%;
     background-color: antiquewhite;
     background-position: center;
     background-size: cover;
-    height: 70vh;
+    height: 80vh;
     padding-top: 20px;
 }
 .sub .pic1{
@@ -117,7 +118,7 @@
     width: 200px;
     border-radius: 50%;
     margin-left: 7cm;
-    margin-top: 3cm;
+    margin-top: 0.5cm;
 }
 .image3{
     background: url(images/image3.png);
@@ -127,7 +128,7 @@
     width: 200px;
     border-radius: 50%;
     margin-left: 16cm;
-    margin-top: -13.5cm;
+    margin-top: -18cm;
     
 }
 .image4{
@@ -138,7 +139,7 @@
     width: 200px;
     border-radius: 50%;
     margin-left: 16cm;
-    margin-top: 110px;
+    margin-top: 24px;
     
     
 }
@@ -150,7 +151,7 @@
     width: 200px;
     border-radius: 50%;
     margin-left: 25cm;
-    margin-top: -13.3cm;
+    margin-top: -18cm;
    
     
 }
@@ -162,7 +163,7 @@
     width: 200px;
     border-radius: 50%;
     margin-left: 25cm;
-    margin-top: 2.9cm;
+    margin-top: 1.9cm;
    
     
 }
@@ -174,7 +175,7 @@
     width: 200px;
     border-radius: 50%;
     margin-left: 35cm;
-    margin-top: -13.7cm;
+    margin-top: -18.3cm;
     
 }
 .image8{
@@ -185,7 +186,7 @@
     width: 200px;
     border-radius: 50%;
      margin-left: 35cm;
-     margin-top: 3cm;
+     margin-top: 1.7cm;
     
     
 }
@@ -232,11 +233,94 @@ height: 30px;
 margin-left: 900px;
 margin-top: -6cm;
 }
-
-
-
-
-
-
-
+.name1{
+    
+    height: 100px;
+    width: 150px;
+    margin-left: 7.5cm;
+    margin-top: 1cm;
+}
+.name2{
+    
+    height: 100px;
+    width: 150px;
+    margin-left: 7.5cm;
+    margin-top: 0.5cm;
+}
+.name3{
    
+    height: 100px;
+    width: 150px;
+    margin-left: 17cm;
+    margin-top: 1cm;
+}
+.name4{
+    
+    height: 100px;
+    width: 150px;
+    margin-left: 17cm;
+    margin-bottom: -30px;
+    margin-top: 20px;
+}
+
+.name5{
+    
+    height: 100px;
+    width: 150px;
+    margin-left: 26cm;
+    margin-bottom: -30px;
+    margin-top: 30px;
+}
+
+.name6{
+   
+    height: 100px;
+    width: 150px;
+    margin-left: 26cm;
+    margin-bottom: -20px;
+    margin-top: 0.5cm;
+}
+.name7{
+    
+    height: 100px;
+    width: 150px;
+    margin-left: 36cm;
+    margin-bottom: -17px;
+    margin-top: 0.9cm;
+}
+.name8{
+    
+    height: 100px;
+    width: 150px;
+    margin-left: 36cm;
+    margin-top: 10px;
+}
+.form{
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin-right: -430px;
+    margin-top: -480px;
+        
+}
+.btn1{
+    height: 50px;
+    width: 350px;
+    
+}
+.btn2{
+    height: 50px;
+    width: 350px;
+    margin-top: 50px;
+}
+.btn3{
+    height: 150px;
+    width: 350px;
+    margin-top: 50px;
+}
+.btn4{
+    height: 50px;
+    width: 350px;
+    background-color: green;
+    margin-top: 50px;
+}
